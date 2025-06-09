@@ -1,3 +1,3 @@
-------- BASIC COURSE SELLING APP--------
+------- learning basic crud operations--------
 
 
